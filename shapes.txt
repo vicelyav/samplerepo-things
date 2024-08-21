@@ -4,3 +4,6 @@ rectangle
 square
 triangle
 Pentagon
+Apple
+Pineapple
+Oranges
